@@ -123,4 +123,4 @@ websocket-client==1.5.3
 websockets==11.0.3
 Werkzeug==2.3.6
 wrapt==1.15.0
-gunicorn== 19.9.0
+gunicorn==19.9.0
